@@ -1,1 +1,1 @@
-![System architecture](SystemArchitecture.jpg?raw=true "System architecture2")
+![System architecture](SystemArchitecture2.jpg?raw=true "System architecture2")
